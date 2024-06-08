@@ -1,51 +1,16 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Impactos do Aquecimento Global🌌
+📒 Descrição
+Este e-book fala sobre o impacto do aquecimento global no nosso planeta, descrevendo brevemente o que é o aquecimento global, quais as causas e na comclusão sugestões de como mitigar estes impactos.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT e IA Canva para geração de texto;
+Canva para geração de imagem da capa
+Microsoft Word para formatação do arquivo.
+🧐 Processo de Criação
+Utilizei o "ChatGPT" para criar um texto com minhas sugestões iniciais e fui refinando em varias rodadas para que viessem mais informações e o terxto se tornasse mais natural. Fiz um compilado de diversas versões com uma nova organização separando os textos nos capitulos criados. Pedi tambpem sugestão de imagens. Tentei utilizar as imagens geradas pelo "Leonardo AI", mas infelizmente não alcancei o resultado desejado. Assim busquei imagens liberadas no google. Para concluir, a montagem final foi feita Microsoft Word e impressa no formato de PDF.
 
-> Woooow! Look at this 👀
+🚀 Resultados
+O e-book apresenta um conteúdo informativo falando sobre a importancia deste tema para o futuro do nosso planeta.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+O processo de criação do e-book foi uma experiência interessante no conhecimento de novas ferramentas e mostrou que com idéias te treinamentos todos são capazes de produzir trabalhos criativos interessantes e informativos utilizando IAs.
